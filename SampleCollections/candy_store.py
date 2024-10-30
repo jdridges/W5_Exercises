@@ -10,4 +10,4 @@ candy_combinations.add((candy_types[0], flavors[2]))            #gummy bears, st
 
 print(f'Today\'s candy options include: {candy_combinations}')
 
-#The 
+#The output prints as multiple tuples. 
